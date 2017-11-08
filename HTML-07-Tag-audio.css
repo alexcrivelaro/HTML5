@@ -1,0 +1,14 @@
+body {
+    margin: 20px;
+    background-color: #e2f3e4
+}
+
+p {
+    font-size: 20px;
+    color: #0d0d8a;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+audio {
+    margin-left: 80px;
+}
